@@ -87,9 +87,10 @@ function moveCharacter() {
 		Time.timeScale = 0.9;
 		mouseposition.y = initialposition.y;
 		timer += Time.deltaTime;
-		rigidbody2D.AddForce(new Vector2(0, -20));
+		
 
-		transform.position = Vector2.MoveTowards(initialposition, mouseposition, 0.06);
+		transform.position = Vector2.MoveTowards(initialposition, mouseposition, 0.04);
+		//transform.position=Vector3.Slerp(Vector3(initialposition.x,initialposition.y,0),Vector3(mouseposition.x,mouseposition.y,0),0.009f);
 		var move: float = Input.GetAxis("Horizontal");
 		if (Mathf.Abs(initialposition.x - mouseposition.x) < 0.3) {
 			yield WaitForSeconds(Time.deltaTime);
@@ -134,3 +135,9 @@ function play_bubble_character() {
 
 
 }
+
+/*function FixedUpdate(){
+
+Debug.Log("fixed update");
+this.rigidbody2D.AddForce(new Vector2(100,100));
+} */

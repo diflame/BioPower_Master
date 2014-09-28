@@ -2,8 +2,10 @@
 var enemy_meets_bubble: GameObject;
 static
 var enemy_dies: boolean;
+var bubble_direction_flag :boolean;
 
 function Start() {
+	bubble_direction_flag=WhiteWolfMovement.look_right;
 
 }
 
@@ -19,7 +21,7 @@ function Update() {
 
 
 function move() {
-	if (WhiteWolfMovement.look_right) {
+	if (bubble_direction_flag) {
 
 		transform.rigidbody2D.velocity = Vector2(1, 0);
 
