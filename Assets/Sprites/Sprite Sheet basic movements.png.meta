@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 95a2f6ac5b8c992488c3bd75e46bc551
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite Sheet basic movements
+    21300002: Sprite Sheet basic movements_0
+    21300004: Sprite Sheet basic movements_1
+    21300006: Sprite Sheet basic movements_2
+    21300008: Sprite Sheet basic movements_3
+    21300010: Sprite Sheet basic movements_4
+    21300012: Sprite Sheet basic movements_5
+    21300014: Sprite Sheet basic movements_6
+    21300016: Sprite Sheet basic movements_7
+    21300018: Sprite Sheet basic movements_8
+    21300020: Sprite Sheet basic movements_9
+    21300022: Sprite Sheet basic movements_10
+    21300024: Sprite Sheet basic movements_11
+    21300026: Sprite Sheet basic movements_12
+    21300028: Sprite Sheet basic movements_13
+    21300030: Sprite Sheet basic movements_14
+    21300032: Sprite Sheet basic movements_15
+    21300034: Sprite Sheet basic movements_16
+    21300036: Sprite Sheet basic movements_17
+    21300038: Sprite Sheet basic movements_18
+    21300040: Sprite Sheet basic movements_19
+    21300042: Sprite Sheet basic movements_20
+    21300044: Sprite Sheet basic movements_21
+    21300046: Sprite Sheet basic movements_22
+    21300048: Sprite Sheet basic movements_23
+    21300050: Sprite Sheet basic movements_24
+    21300052: Sprite Sheet basic movements_25
+    21300054: Sprite Sheet basic movements_26
+    21300056: Sprite Sheet basic movements_27
+    21300058: Sprite Sheet basic movements_28
+    21300060: Sprite Sheet basic movements_29
+    21300062: Sprite Sheet basic movements_30
+    21300064: Sprite Sheet basic movements_31
+    21300066: Sprite Sheet basic movements_32
+    21300068: Sprite Sheet basic movements_33
+    21300070: Sprite Sheet basic movements_34
+    21300072: Sprite Sheet basic movements_35
+    21300074: Sprite Sheet basic movements_36
+    21300076: Sprite Sheet basic movements_37
+    21300078: Sprite Sheet basic movements_38
+    21300080: Sprite Sheet basic movements_39
+    21300082: Sprite Sheet basic movements_40
+    21300084: Sprite Sheet basic movements_41
+    21300086: Sprite Sheet basic movements_42
+    21300088: Sprite Sheet basic movements_43
+    21300090: Sprite Sheet basic movements_44
+    21300092: Sprite Sheet basic movements_45
+    21300094: Sprite Sheet basic movements_46
+    21300096: Sprite Sheet basic movements_47
+    21300098: Sprite Sheet basic movements_48
+    21300100: Sprite Sheet basic movements_49
+    21300102: Sprite Sheet basic movements_50
+    21300104: Sprite Sheet basic movements_51
+    21300106: Sprite Sheet basic movements_52
+    21300108: Sprite Sheet basic movements_53
+    21300110: Sprite Sheet basic movements_54
+    21300112: Sprite Sheet basic movements_55
+    21300114: Sprite Sheet basic movements_56
+    21300116: Sprite Sheet basic movements_57
+    21300118: Sprite Sheet basic movements_58
+    21300120: Sprite Sheet basic movements_59
+    21300122: Sprite Sheet basic movements_60
+    21300124: Sprite Sheet basic movements_61
+    21300126: Sprite Sheet basic movements_62
+    21300128: Sprite Sheet basic movements_63
+    21300130: Sprite Sheet basic movements_64
+    21300132: Sprite Sheet basic movements_65
+    21300134: Sprite Sheet basic movements_66
+    21300136: Sprite Sheet basic movements_67
+    21300138: Sprite Sheet basic movements_68
+    21300140: Sprite Sheet basic movements_69
+    21300142: Sprite Sheet basic movements_70
+    21300144: Sprite Sheet basic movements_71
+    21300146: Sprite Sheet basic movements_72
+    21300148: Sprite Sheet basic movements_73
+    21300150: Sprite Sheet basic movements_74
+    21300152: Sprite Sheet basic movements_75
+    21300154: Sprite Sheet basic movements_76
+    21300156: Sprite Sheet basic movements_77
+    21300158: Sprite Sheet basic movements_51
+    21300160: Sprite Sheet basic movements_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite Sheet basic movements_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1467
+        width: 267
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1472
+        width: 267
+        height: 576
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1470
+        width: 267
+        height: 578
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_3
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1467
+        width: 267
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_4
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1467
+        width: 267
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_5
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1467
+        width: 267
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 329
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 854
+        width: 329
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 854
+        width: 328
+        height: 581
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_66
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 852
+        width: 339
+        height: 585
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_51
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 853
+        width: 329
+        height: 585
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_52
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 853
+        width: 329
+        height: 585
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_12
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 327
+        width: 535
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_13
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 328
+        width: 560
+        height: 524
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 327
+        width: 437
+        height: 526
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 326
+        width: 382
+        height: 527
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 590
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_17
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 41
+        width: 577
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet basic movements_18
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1
+        width: 93
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

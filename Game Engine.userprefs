@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\bio_gum.js">
+    <Files>
+      <File FileName="Assets\Scripts\Puzzle Collect.js" Line="10" Column="6" />
+      <File FileName="Assets\Scripts\white_wolf_death.js" Line="55" Column="1" />
+      <File FileName="Assets\Scripts\bio_gum.js" Line="26" Column="60" />
+      <File FileName="Assets\Scripts\EnemyPatrol.js" Line="120" Column="3" />
+      <File FileName="Assets\Scripts\Fade In.js" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
